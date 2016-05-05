@@ -1,3 +1,36 @@
 {
-    "private": true
+    "name": "debug-umd",
+    "description": "Wrap on 'debug' package, and exports in UMD style",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "piecioshka.pl"
+    },
+    "scripts": {
+        "build": "webpack --profile",
+        "watch": "webpack -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/piecioshka/debug-umd.git"
+    },
+    "keywords": [
+        "debug",
+        "umd",
+        "amd",
+        "commonjs",
+        "global"
+    ],
+    "files": [
+        "dist",
+        "package.json",
+        "README.md"
+    ],
+    "devDependencies": {
+        "debug": "^2.2.0",
+        "webpack": "^1.13.0"
+    },
+    "main": "dist/debug-umd.js"
 }
