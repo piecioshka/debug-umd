@@ -1,6 +1,8 @@
 # debug-umd
 
-> Wrap on 'debug' package, and exports in UMD style
+[![npm version](https://badge.fury.io/js/debug-umd.svg)](https://badge.fury.io/js/debug-umd)
+
+> Wrap original 'debug' package, and exports in UMD style
 
 ## Install
 

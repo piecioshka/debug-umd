@@ -1,6 +1,6 @@
 {
     "name": "debug-umd",
-    "description": "Wrap on 'debug' package, and exports in UMD style",
+    "description": "Wrap original 'debug' package, and exports in UMD style",
     "version": "1.0.0",
     "license": "MIT",
     "author": {
