@@ -6,7 +6,7 @@
     "author": {
         "name": "Piotr Kowalski",
         "email": "piecioshka@gmail.com",
-        "url": "http://piecioshka.pl"
+        "url": "https://piecioshka.pl"
     },
     "scripts": {
         "build": "webpack --profile",
@@ -32,5 +32,5 @@
         "debug": "^2.2.0",
         "webpack": "^1.13.0"
     },
-    "main": "dist/debug-umd.js"
+    "main": "./dist/debug-umd.js"
 }
