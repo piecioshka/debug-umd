@@ -5,7 +5,7 @@
 [![downloads count](https://img.shields.io/npm/dt/debug-umd.svg)](https://www.npmjs.com/package/debug-umd)
 [![license](https://img.shields.io/npm/l/debug-umd.svg)](https://piecioshka.mit-license.org)
 
-Wrap original 'debug' package, and exports in UMD style
+🔨 Wrap original 'debug' package, and exports in UMD style
 
 ## Install
 
