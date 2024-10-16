@@ -1,7 +1,7 @@
 {
     "name": "debug-umd",
     "description": "🔨 Wrap original 'debug' package, and exports in UMD style",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": "MIT",
     "author": {
         "name": "Piotr Kowalski",
