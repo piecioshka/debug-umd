@@ -12,6 +12,12 @@
         "build": "webpack --profile",
         "watch": "webpack -w"
     },
+    "dependencies": {
+        "debug": "^2.2.0"
+    },
+    "devDependencies": {
+        "webpack": "^1.13.0"
+    },
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/piecioshka/debug-umd.git"
@@ -28,9 +34,5 @@
         "package.json",
         "README.md"
     ],
-    "devDependencies": {
-        "debug": "^2.2.0",
-        "webpack": "^1.13.0"
-    },
     "main": "./dist/debug-umd.js"
 }
