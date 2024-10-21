@@ -22,17 +22,17 @@
         "type": "git",
         "url": "git+ssh://git@github.com/piecioshka/debug-umd.git"
     },
+    "files": [
+        "dist",
+        "package.json",
+        "README.md"
+    ],
     "keywords": [
         "debug",
         "umd",
         "amd",
         "commonjs",
         "global"
-    ],
-    "files": [
-        "dist",
-        "package.json",
-        "README.md"
     ],
     "main": "./dist/debug-umd.js"
 }
