@@ -8,7 +8,9 @@
 
 🔨 Wrap original 'debug' package, and exports in UMD style
 
-## Install
+## Usage
+
+Installation:
 
 ```bash
 npm install debug-umd
