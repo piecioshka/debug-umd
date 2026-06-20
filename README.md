@@ -19,3 +19,7 @@ npm install debug-umd
 ## Dependencies
 
 Use https://www.npmjs.com/package/debug as original library.
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
